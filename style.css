@@ -4,7 +4,6 @@ body{
     width: 100%;
     font-family: figtree;
     display: grid;
-     display:flex;
     justify-content:center;
     overflow:hidden;
     min-height:100vh;
