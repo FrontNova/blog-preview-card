@@ -4,6 +4,7 @@ body{
     width: 100%;
     font-family: figtree;
     display: grid;
+     display:flex;
     justify-content:center;
     overflow:hidden;
     min-height:100vh;
@@ -97,5 +98,6 @@ border:solid, hsl(47, 88%, 63%);
 width: 58px;
 height: 16px;
 background-color: hsl(47, 88%, 63%);
-border-radius:3px
+border-radius:3px;
+display:flex;
 }
